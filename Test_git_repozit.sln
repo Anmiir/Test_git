@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_git_repozit", "Test_git_repozit\Test_git_repozit.csproj", "{44DB5DA1-1006-473C-B1D4-906F50A13861}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44DB5DA1-1006-473C-B1D4-906F50A13861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44DB5DA1-1006-473C-B1D4-906F50A13861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44DB5DA1-1006-473C-B1D4-906F50A13861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44DB5DA1-1006-473C-B1D4-906F50A13861}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE3D87BE-CF31-47BF-AFE8-1CAC1C21439E}
+	EndGlobalSection
+EndGlobal
